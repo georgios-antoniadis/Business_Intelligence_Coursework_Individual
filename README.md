@@ -1,4 +1,6 @@
 # Business_Intelligence_Coursework_Individual
+The group part of the project can be found here: https://github.com/georgios-antoniadis/Business-Intelligence-Coursework
+
 The repository includes a zio folder containing screenshots of all the necessary queries for one to create the requirements into the Metabase environment
 Also inside this repository are the local Metabase's .db files.
 
