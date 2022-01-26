@@ -1,6 +1,6 @@
 # Business_Intelligence_Coursework_Individual
-This repository includes the files necessary to build and execute the group part of the project and 
-a folder including all of the necessary queries for one to create the requirements into the Metabase environment
+The repository includes a zio folder containing screenshots of all the necessary queries for one to create the requirements into the Metabase environment
+Also inside this repository are the local Metabase's .db files.
 
 Located also inside the repository is a video (dashboardDemo.zip) depicting the metabase tool's functionality
 when it is fully configured. In this video one can also notice Metabase's limitations in the form
