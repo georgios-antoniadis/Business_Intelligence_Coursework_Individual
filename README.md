@@ -3,7 +3,8 @@ This repository includes the files necessary to build and execute the group part
 a folder including all of the necessary queries for one to create the requirements into the Metabase environment
 
 Located also inside the repository is a video depicting the metabase tool's functionality
-when it is fully configured.
+when it is fully configured. In this video one can also notice Metabase's limitations in the form
+of long loading times for complex requirements.
 
 How to install Metabase:
 1) Download the jar Metabase file from https://www.metabase.com/docs/latest/operations-guide/running-the-metabase-jar-file.html
