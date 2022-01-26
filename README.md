@@ -2,7 +2,7 @@
 This repository includes the files necessary to build and execute the group part of the project and 
 a folder including all of the necessary queries for one to create the requirements into the Metabase environment
 
-Located also inside the repository is a video depicting the metabase tool's functionality
+Located also inside the repository is a video (dashboardDemo.zip) depicting the metabase tool's functionality
 when it is fully configured. In this video one can also notice Metabase's limitations in the form
 of long loading times for complex requirements.
 
@@ -31,7 +31,7 @@ http://localhost:3000
 3) In the promp window fill in the credentials to connect with your database (Look into group repository for more information)
 4) You should then be redirected to Metabase's home page
 5) Head to 'Ask a question' and fill in the fields following the instructions you see inside the screenshots
-of the 'Questions screenshots' folder of this repository
+of the 'query screenshots' zip folder of this repository
 6) Repeat step 5 until all questions are filled in
 7) Tap on the '+' icon and create a new dashboard, give it a name 'General' and click on the 'pencil' button to edit (on the top right of the screen)
 8) Tap on the '+' icon to add questions and pick the questions you want from the list that will appear
